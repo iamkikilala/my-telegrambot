@@ -12,8 +12,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-TOKEN = '7934226747:AAFrF6Anc83H3FfCB0wj4cpCGGZZULi9yDI'
-CHAT_ID = '-1002606282067'
+TOKEN = 'j4cpCGGZZULi9yDI'
+CHAT_ID = '-'
 E3A_ADDRESS = 'EKYotMbZR82JAVakfnaQbRfCE7oyWLsXVwfyjwTRdaos'
 
 # === 回應詞庫 ===
